@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820455584374",
+    "project_id": "my-app-366e2",
+    "storage_bucket": "my-app-366e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820455584374:android:b7238610c6f5681dfb2557",
+        "android_client_info": {
+          "package_name": "com.macaulay.maclay_multi_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBigEdiRxVlWzp9S46aMWu8RkHUNDSLiHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
